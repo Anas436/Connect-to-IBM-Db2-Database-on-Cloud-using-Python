@@ -4,7 +4,7 @@
 
 The ibm_db API provides a variety of useful Python functions for accessing and manipulating data in an IBM® data server database, including functions for connecting to a database, preparing and issuing SQL statements, fetching rows from result sets, calling stored procedures, committing and rolling back transactions, handling errors, and retrieving metadata.
 
-I have first import the ibm_db library into our Python Application.
+I have first import the ibm_db library into my Python Application.
 
 Execute the following cells by clicking within it and then press Shift and Enter keys simultaneously.
 
